@@ -1,5 +1,7 @@
 # demoapp
 
+Demo app, built in order to learn Vue.js framework.
+
 ## Project setup
 ```
 npm install
