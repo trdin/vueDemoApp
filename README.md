@@ -4,7 +4,7 @@
 
 # demoapp
 
-Demo app, built in order to learn Vue.js framework.
+App was mad following this [tutorial](https://www.youtube.com/watch?v=3dHNOWTI7H8). A task app, creating, listing and deleting tasks.
 
 ## Project setup
 ```
